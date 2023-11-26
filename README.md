@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=desp0o" alt="desp0o" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tdespotashvili" target="blank"><img src="https://img.shields.io/twitter/follow/tdespotashvili?logo=twitter&style=for-the-badge" alt="tdespotashvili" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://devweb.cc/](https://devweb.cc/)
 
 - 📫 How to reach me **tornike.despotashvili@gmail.com**
