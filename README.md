@@ -16,4 +16,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png" />
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png" width="100"/>
