@@ -1,4 +1,3 @@
-<h3 align="left">Languages and Tools:</h3>
 <h1 align="center">Hi 👋, I'm Tornike Despotashvili</h1>
 <h3 align="center">iOS Developer & Frontend Developer</h3>
 
@@ -7,6 +6,9 @@
 - 📫 How to reach me **tornike.despotashvili@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Desp0o](https://github.com/Desp0o)
+  
+- 📝 I regularly write articles on [https://medium.com/@tornike.despotashvili_59598](https://medium.com/@tornike.despotashvili_59598)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
