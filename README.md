@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tornike.despotashvili@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Desp0o](https://github.com/Desp0o)
+- 📄 Know about my experiences [Repositories](https://github.com/Desp0o?tab=repositories)
   
 - 📝 I regularly write articles on [https://medium.com/@tornike.despotashvili_59598](https://medium.com/@tornike.despotashvili_59598)
 
@@ -17,34 +17,27 @@
 <a href="https://medium.com/tornike.despotashvili_59598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="tornike.despotashvili_59598" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ant_design.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" width="50"/>
+## My Apps on the App Store <img width="24" height="24" alt="app-store" src="https://github.com/user-attachments/assets/b3e37458-5574-493b-8bd5-dd734f61f80d" />
 
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://apps.apple.com/ge/app/catch-the-agent/id6751771380">
+        <img src="https://github.com/user-attachments/assets/eb86cc8a-4a17-41b9-9e5d-2bab31ebdf83" width="80" height="80" alt="Catch the Agent" /><br />
+        Catch the Agent
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/ge/app/izzipixie/id6751784329">
+        <img src="https://github.com/user-attachments/assets/7d2f283f-5747-43a5-a593-785545e22900" width="80" height="80" alt="IzziPixie" /><br />
+        IzziPixie
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/ge/app/filtria/id6752562761">
+        <img src="https://github.com/user-attachments/assets/d9aa977e-f05e-48ac-8390-f37c6fc0c9b2" width="80" height="80" alt="Filtria" /><br />
+        Filtria
+      </a>
+    </td>
+  </tr>
+</table>
