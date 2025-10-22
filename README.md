@@ -22,22 +22,29 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://apps.apple.com/us/app/cozy-wall/id6752570775">
+        <img src="https://github.com/user-attachments/assets/a1752c53-5411-4b46-87c7-aab158496607" width="80" height="80" alt="Filtria" /><br />
+        Cozy Wall
+      </a>
+    </td>
+    <td align="center">
       <a href="https://apps.apple.com/ge/app/catch-the-agent/id6751771380">
-        <img src="https://github.com/user-attachments/assets/eb86cc8a-4a17-41b9-9e5d-2bab31ebdf83" width="80" height="80" alt="Catch the Agent" /><br />
+        <img src="https://github.com/user-attachments/assets/cbc19bfe-9fc5-450a-bf07-498a41fa0989" width="80" height="80" alt="Catch the Agent" /><br />
         Catch the Agent
       </a>
     </td>
     <td align="center">
       <a href="https://apps.apple.com/ge/app/izzipixie/id6751784329">
-        <img src="https://github.com/user-attachments/assets/7d2f283f-5747-43a5-a593-785545e22900" width="80" height="80" alt="IzziPixie" /><br />
+        <img src="https://github.com/user-attachments/assets/d06141a2-b842-41b4-a5c0-addecee67f25" width="80" height="80" alt="IzziPixie" /><br />
         IzziPixie
       </a>
     </td>
     <td align="center">
       <a href="https://apps.apple.com/ge/app/filtria/id6752562761">
-        <img src="https://github.com/user-attachments/assets/d9aa977e-f05e-48ac-8390-f37c6fc0c9b2" width="80" height="80" alt="Filtria" /><br />
+        <img src="https://github.com/user-attachments/assets/b295ada0-4a6f-430f-9c71-0fe958c2fe10" width="80" height="80" alt="Filtria" /><br />
         Filtria
       </a>
     </td>
   </tr>
 </table>
+
