@@ -4,8 +4,6 @@
 - 👨‍💻 All of my projects are available at [https://devweb.cc/](https://devweb.cc/)
 
 - 📫 How to reach me **tornike.despotashvili@gmail.com**
-
-- 📄 Know about my experiences [Repositories](https://github.com/Desp0o?tab=repositories)
   
 - 📝 I regularly write articles on [https://medium.com/@tornike.despotashvili_59598](https://medium.com/@tornike.despotashvili_59598)
 
