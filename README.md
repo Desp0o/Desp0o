@@ -57,15 +57,12 @@
     </td>
     <td align="center">
       <a href="https://apps.apple.com/us/app/useless-advices/id6757987196">
-        <img src="https://github.com/user-attachments/assets/b295ada0-4a6f-430f-9c71-0fe958c2fe10" width="80" height="80" alt="Filtria" /><br />
+        <img src="https://github.com/user-attachments/assets/fadf67fb-65c2-4187-928c-bd82031042fc" width="80" height="80" alt="Filtria" /><br />
         Useless Advices
       </a>
     </td>
   </tr>
 </table>
-
-
-
 
 
 
